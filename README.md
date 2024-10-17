@@ -26,5 +26,5 @@ pip install pre-commit
 
 2. Запустить скрипт:
 ```shell
-   pre-commit run -a
+pre-commit run -a
 ```
